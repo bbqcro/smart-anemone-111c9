@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Moja test stranica
 white_header: true
 sections:
   - type: hero_section
