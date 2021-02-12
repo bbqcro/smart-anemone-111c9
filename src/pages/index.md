@@ -1,6 +1,6 @@
 ---
 title: Moja test stranica
-white_header: false
+white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
